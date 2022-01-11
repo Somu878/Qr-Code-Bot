@@ -4,7 +4,7 @@ import png
 from pyqrcode import QRCode
 from telegram.ext import Updater, CommandHandler, MessageHandler, Filters, CallbackContext
 from telegram import Update
-TOKEN = "<YOUR API TOKEN>"
+TOKEN = "1977531271:AAGnv1-457aBl0-BPfk5ybVX-T3CDKU3m2g"
 logging.basicConfig(
     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO
 )
